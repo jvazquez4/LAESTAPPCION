@@ -1,0 +1,16 @@
+# Bazar Cultural App
+
+## Descripción
+La Bazar Cultural App es una aplicación móvil diseñada para promover y fomentar la participación en eventos culturales dentro de un bazar. La aplicación ofrece a los usuarios la posibilidad de explorar una amplia variedad de eventos, como exposiciones de arte, conciertos, talleres y más, que se llevan a cabo en el bazar. Además, proporciona información detallada sobre cada evento, incluyendo fechas, ubicaciones, descripciones y detalles de los artistas o expositores participantes.
+
+## Características principales
+- Visualización de eventos: Los usuarios pueden explorar una lista de eventos disponibles dentro del bazar cultural.
+- Detalles de eventos: Acceso a información detallada sobre cada evento, incluyendo fecha, ubicación y descripción.
+- Notificaciones: Los usuarios pueden recibir notificaciones sobre nuevos eventos, promociones especiales y actualizaciones importantes.
+- Registro y participación: Posibilidad de registrarse y participar en eventos directamente desde la aplicación.
+- Promociones exclusivas: Acceso a promociones exclusivas y descuentos especiales para eventos y productos dentro del bazar.
+
+## Requisitos del sistema
+- Dispositivos móviles con sistema operativo iOS 11 o superior, o Android 7.0 o superior.
+- Conexión a Internet para acceder a la información sobre eventos y promociones.
+- Espacio de almacenamiento suficiente para instalar la aplicación.
